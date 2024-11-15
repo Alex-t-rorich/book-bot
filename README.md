@@ -26,7 +26,7 @@ No external dependencies required. Uses Python's built-in libraries.
 
 ## Usage
 
-1. Place your text file in the `books` directory (or modify the file path in the script)
+1. Place your text file in a `books` directory in the root (or modify the file path in the script)
 
 2. Run the script:
 ```python
